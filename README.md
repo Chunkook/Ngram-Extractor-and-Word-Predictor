@@ -8,7 +8,7 @@ Program takes as input a text file and extracts all ngram specified by user orde
 
 `python3 ngram_extractor.py <file> <integer ngrams>`
 
-*Example:* `python3 ngram_extractor.py sample.txt 4` will extract all 4-grams from sample.txt in order of frequency
+*Example:* `python3 ngram_extractor.py sample.txt 4` will extract all 4-grams from sample.txt in order of frequency.
 
 
 ## Word Predictor
